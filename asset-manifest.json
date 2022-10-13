@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.8b5f34b8.css",
-    "main.js": "/personal-website/static/js/main.71dc0e1a.js",
+    "main.css": "/personal-website/static/css/main.47b6b7ba.css",
+    "main.js": "/personal-website/static/js/main.1d90808b.js",
     "static/media/bgif.gif": "/personal-website/static/media/bgif.dd5c2728bef455fed722.gif",
     "static/media/react.png": "/personal-website/static/media/react.283f9f863581bb226e65.png",
     "static/media/sql.png": "/personal-website/static/media/sql.68f2d91f6df5177021f4.png",
@@ -10,15 +10,16 @@
     "static/media/github.png": "/personal-website/static/media/github.d94723b1f36d78d63b2a.png",
     "static/media/flask.png": "/personal-website/static/media/flask.a3d13b8010f1b29362d7.png",
     "static/media/git.png": "/personal-website/static/media/git.dfdd0989ffe0184bdd68.png",
+    "static/media/githubblue.png": "/personal-website/static/media/githubblue.dc4640a9c70bdda8d66c.png",
     "static/media/BGC.png": "/personal-website/static/media/BGC.eb5460cd510726d4107d.png",
     "static/media/city.svg": "/personal-website/static/media/city.df1cb53ecdb169f177c89e30f1b8e0a0.svg",
     "index.html": "/personal-website/index.html",
     "static/media/town.svg": "/personal-website/static/media/town.c0d3048fc202e2492dcaa5d13e3c2312.svg",
-    "main.8b5f34b8.css.map": "/personal-website/static/css/main.8b5f34b8.css.map",
-    "main.71dc0e1a.js.map": "/personal-website/static/js/main.71dc0e1a.js.map"
+    "main.47b6b7ba.css.map": "/personal-website/static/css/main.47b6b7ba.css.map",
+    "main.1d90808b.js.map": "/personal-website/static/js/main.1d90808b.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b5f34b8.css",
-    "static/js/main.71dc0e1a.js"
+    "static/css/main.47b6b7ba.css",
+    "static/js/main.1d90808b.js"
   ]
 }
