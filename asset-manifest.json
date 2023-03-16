@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.55664646.css",
-    "main.js": "/personal-website/static/js/main.65059a8c.js",
+    "main.css": "/personal-website/static/css/main.dd75586e.css",
+    "main.js": "/personal-website/static/js/main.37c3a2e0.js",
     "static/media/bgif-dark.gif": "/personal-website/static/media/bgif-dark.dd5c2728bef455fed722.gif",
     "static/media/bgif-light.gif": "/personal-website/static/media/bgif-light.3bf72fc67fd99361a0c7.gif",
     "static/media/react.png": "/personal-website/static/media/react.283f9f863581bb226e65.png",
-    "static/media/news-comp-app.png": "/personal-website/static/media/news-comp-app.ffb0dc76df13037efb4f.png",
     "static/media/logo-light.png": "/personal-website/static/media/logo-light.9b827c302e9d60bd21e1.png",
     "static/media/logo-black.png": "/personal-website/static/media/logo-black.bec75de7470f079d8100.png",
     "static/media/gramm.png": "/personal-website/static/media/gramm.459d14acdbfb7db227e0.png",
@@ -20,11 +19,11 @@
     "static/media/city.svg": "/personal-website/static/media/city.df1cb53ecdb169f177c89e30f1b8e0a0.svg",
     "index.html": "/personal-website/index.html",
     "static/media/town.svg": "/personal-website/static/media/town.c0d3048fc202e2492dcaa5d13e3c2312.svg",
-    "main.55664646.css.map": "/personal-website/static/css/main.55664646.css.map",
-    "main.65059a8c.js.map": "/personal-website/static/js/main.65059a8c.js.map"
+    "main.dd75586e.css.map": "/personal-website/static/css/main.dd75586e.css.map",
+    "main.37c3a2e0.js.map": "/personal-website/static/js/main.37c3a2e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.55664646.css",
-    "static/js/main.65059a8c.js"
+    "static/css/main.dd75586e.css",
+    "static/js/main.37c3a2e0.js"
   ]
 }
