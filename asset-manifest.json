@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "./static/css/main.d6a1e409.css",
-    "main.js": "./static/js/main.cdb8c336.js",
-    "static/media/bgif-dark.gif": "./static/media/bgif-dark.dd5c2728bef455fed722.gif",
-    "static/media/bgif-light.gif": "./static/media/bgif-light.3bf72fc67fd99361a0c7.gif",
-    "static/media/react.png": "./static/media/react.283f9f863581bb226e65.png",
+    "main.css": "./static/css/main.8919c068.css",
+    "main.js": "./static/js/main.d059f647.js",
+    "static/media/background.svg": "./static/media/background.565ff0f8805ca159f045.svg",
+    "static/media/tailwind.png": "./static/media/tailwind.d5abcf62e57cbbee357e.png",
+    "static/media/aws.png": "./static/media/aws.c3cba1a38b4f08e33264.png",
+    "static/media/bitmoji.png": "./static/media/bitmoji.83214f4942c74c54900b.png",
+    "static/media/prisma.png": "./static/media/prisma.6bc51b1773acc6adadf7.png",
     "static/media/logo-light.png": "./static/media/logo-light.9b827c302e9d60bd21e1.png",
     "static/media/logo-black.png": "./static/media/logo-black.bec75de7470f079d8100.png",
     "static/media/gramm.png": "./static/media/gramm.459d14acdbfb7db227e0.png",
+    "static/media/postgreSQL.png": "./static/media/postgreSQL.4e795b89e252ef122756.png",
     "static/media/gmail.png": "./static/media/gmail.1baaa74a2666b61485a6.png",
     "static/media/github.png": "./static/media/github.d94723b1f36d78d63b2a.png",
-    "static/media/mysql.png": "./static/media/mysql.7d8d571e5629923eaf74.png",
-    "static/media/flask.png": "./static/media/flask.a3d13b8010f1b29362d7.png",
     "static/media/git.png": "./static/media/git.dfdd0989ffe0184bdd68.png",
     "static/media/githubblue.png": "./static/media/githubblue.dc4640a9c70bdda8d66c.png",
-    "static/media/tailwindcss.png": "./static/media/tailwindcss.1dbfbe2171ea475c4b2a.png",
     "static/media/bash.png": "./static/media/bash.fb26e2df76f5535e4fad.png",
+    "static/media/nextjs.png": "./static/media/nextjs.70a93475e8c739b65181.png",
     "static/media/city.svg": "./static/media/city.df1cb53ecdb169f177c89e30f1b8e0a0.svg",
     "index.html": "./index.html",
     "static/media/town.svg": "./static/media/town.c0d3048fc202e2492dcaa5d13e3c2312.svg",
-    "main.d6a1e409.css.map": "./static/css/main.d6a1e409.css.map",
-    "main.cdb8c336.js.map": "./static/js/main.cdb8c336.js.map"
+    "main.8919c068.css.map": "./static/css/main.8919c068.css.map",
+    "main.d059f647.js.map": "./static/js/main.d059f647.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6a1e409.css",
-    "static/js/main.cdb8c336.js"
+    "static/css/main.8919c068.css",
+    "static/js/main.d059f647.js"
   ]
 }
